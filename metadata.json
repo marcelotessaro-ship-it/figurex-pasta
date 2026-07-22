@@ -1,0 +1,6 @@
+{
+  "name": "FigureX",
+  "description": "Plataforma e marketplace de figurinhas colecionáveis em estilo Glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
