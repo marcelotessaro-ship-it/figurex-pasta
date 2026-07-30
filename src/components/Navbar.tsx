@@ -34,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   const [userDropdownOpen, setUserDropdownOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 w-full backdrop-blur-xl bg-slate-950/60 border-b border-white/10 shadow-2xl transition-all">
+    <header className="sticky top-0 z-40 w-full backdrop-blur-xl bg-slate-900/60 border-b border-white/10 shadow-2xl transition-all">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
         {/* Logo */}
         <div
